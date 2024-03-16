@@ -59,7 +59,7 @@
     font-weight: bolder;
     color: white;
     margin: 20px;
-    margin-left: 21px;
+    margin-left: 25px;
 }
  
 .navigation a {
@@ -851,7 +851,7 @@ Footer a:hover {
     
     .circle-para{
        font-size: 2rem;
-       margin-left: 26px;
+       margin-left: 30px;
     }
 
 }
