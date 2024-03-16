@@ -785,6 +785,10 @@ Footer a:hover {
         visibility: hidden;
     }
 
+    #AboutMe .aboutme-box p{
+        padding: 0;
+    }
+
 }
 
 
