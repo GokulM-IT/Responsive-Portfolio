@@ -107,7 +107,7 @@
     position: relative;
     top: 0;
     left: 0;
-    background: url(.Home.png) no-repeat; 
+    background: url(Home.png) no-repeat; 
     background-position: center;
     background-size: cover;
     display: flex;
@@ -574,32 +574,32 @@
 }
 
 .first {
-    background: url(.portfolio1.jpg);
+    background: url(portfolio1.jpg);
     background-size: cover;
 }
 
 .second {
-    background: url(.portfolio2.jpg);
+    background: url(portfolio2.jpg);
     background-size: cover;
 }
 
 .third {
-    background: url(.portfolio3.jpg);
+    background: url(portfolio3.jpg);
     background-size: cover;
 }
 
 .fourth {
-    background: url(.portfolio4.jpg);
+    background: url(portfolio4.jpg);
     background-size: cover;
 }
 
 .fifth {
-    background: url(.portfolio5.jpg);
+    background: url(portfolio5.jpg);
     background-size: cover;
 }
 
 .sixth {
-    background: url(.portfolio6.jpg);
+    background: url(portfolio6.jpg);
     background-size: cover;
 }
 
