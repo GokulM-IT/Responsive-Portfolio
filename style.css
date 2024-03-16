@@ -948,7 +948,7 @@ Footer a:hover {
 }
 
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 375px) {
 
     #Home .home-content .main-ftext{
         font-size: 1.7rem;
